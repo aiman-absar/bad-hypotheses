@@ -1,2 +1,2 @@
 # bad-hypotheses
-bored and motivated
+my thoughts on things that keep me up at night
