@@ -3,7 +3,4 @@ plugins:
 - jekyll-remote-theme
 
 title: bad hypotheses
-description: my thoughts on things that keep me up at night. I am pretty sure you got here accidentally
-
-
-<img src= "https://i.kym-cdn.com/photos/images/newsfeed/001/042/619/4ea.jpg" width= "300px">
+description: my thoughts on things that keep me up at night. I am pretty sure you got here accidentally <img src= "https://i.kym-cdn.com/photos/images/newsfeed/001/042/619/4ea.jpg" width= "300px">
