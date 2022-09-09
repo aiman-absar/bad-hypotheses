@@ -5,15 +5,8 @@ I am pretty sure you got here accidentally
 nevertheless, welcome
 
 
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme
 
-title: bad hypotheses
-description: my thoughts on things that keep me up at night
-theme: tactile
-
-On the futility of the pursuit of happiness
+# On the futility of the pursuit of happiness
 
 Like many those before us, and many more to come; we will always strive to be happy. The fundamental paradox at the heart of this pursuit, is that happiness doesn’t appear to those who seek it.
 
