@@ -16,7 +16,7 @@ It feels nice to have a goal like that. We fool ourselves into thinking that hav
 
 Some think it’s love. Some think it’s a fulfilling livelihood. Some think it’s a lot more nebulous than that. I am of the last group. This is the part of the discussion where any semblance of a structure will start breaking down. I am not sorry about that.
 
-I. The need for completeness in our lives
+## I. The need for completeness in our lives
 
 I’m gonna be real here for a second. This need to talk about, well, “this”, didn’t come out of no-where. It’s about a breakup. While it’s cliche, I’d like to think that it doesn’t matter how we get to this point. What matters is that, at various points in life, we will be forced to confront this fundamental truth. We can fight it tooth and nail, like Frank fought his friend Nada in the movie They Live. Frank knew what he’d see if he put on the sunglasses, and yet he fought Nada’s attempt at making Frank see the truth about the world. Because deep down, he knew the beautiful lie he tells himself puts no impetus on him to break out of this shell we cocoon in. The comforts in life soothe us. The dark womb of Capitalism- and I say dark to mean impenetrable, and not sinister- makes it easy to ignore the mirror that reflects back to us what we look like. We are all Dorain Gray’s in our own ways, and we all have a choice to glimpse that gritty painting from time to time. But why do that?
 
